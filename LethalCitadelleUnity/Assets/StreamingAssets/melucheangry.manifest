@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1839618468
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad95531ac002ff92ecc5e514ed63b254
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Editor/angry/la r\xE9publique c'est moi.wav"
+- Assets/Editor/angry/cirer les chaussures.wav
+- Assets/Editor/angry/ABATTEZ LA CITADELLE.wav
+- Assets/Editor/angry/humour.wav
+- Assets/Editor/angry/faites mieux.wav
+- Assets/Editor/angry/les gens raisonnables.wav
+- Assets/Editor/angry/on pousse.wav
+- Assets/Editor/angry/apoplexie.wav
+- Assets/Editor/angry/qui je suis.wav
+Dependencies: []

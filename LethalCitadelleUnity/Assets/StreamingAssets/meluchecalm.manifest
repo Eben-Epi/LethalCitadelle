@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3553313290
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd8898875fd3ae3a840d0fc669f59b95
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Editor/calm/Ma personne est sacr\xE9e.wav"
+- Assets/Editor/calm/pudeur de gazelles.wav
+- Assets/Editor/calm/le bruit.wav
+- Assets/Editor/calm/Ne me touchez pas monsieur.wav
+- Assets/Editor/calm/oh ho.wav
+- Assets/Editor/calm/karl max.wav
+- Assets/Editor/calm/je suis pret.wav
+Dependencies: []

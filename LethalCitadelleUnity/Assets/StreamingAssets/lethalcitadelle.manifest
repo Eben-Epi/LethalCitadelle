@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4252689968
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0bdff952f661f4f2293e4200873abf82
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/pudeur de gazelles.wav
+- Assets/Editor/poussez vous.wav
+- Assets/Editor/apoplexie.wav
+- Assets/Editor/cirer les chaussures.wav
+- Assets/Editor/ABATTEZ LA CITADELLE.wav
+- Assets/Editor/karl max.wav
+- "Assets/Editor/Ma personne est sacr\xE9e.wav"
+- "Assets/Editor/la r\xE9publique c'est moi.wav"
+- Assets/Editor/allez dire.wav
+- Assets/Editor/le bruit.wav
+- Assets/Editor/on pousse.wav
+- Assets/Editor/qui je suis.wav
+- Assets/Editor/oh ho.wav
+- Assets/Editor/humour.wav
+- Assets/Editor/Ne me touchez pas monsieur.wav
+- Assets/Editor/faites mieux.wav
+- Assets/Editor/je suis pret.wav
+Dependencies: []

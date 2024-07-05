@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1906500629
+CRC: 1649344923
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -7,4 +7,16 @@ AssetBundleManifest:
       Dependencies: {}
     Info_1:
       Name: meluchecalm
+      Dependencies: {}
+    Info_2:
+      Name: poutou
+      Dependencies: {}
+    Info_3:
+      Name: guiraudwall
+      Dependencies: {}
+    Info_4:
+      Name: guiraudscream
+      Dependencies: {}
+    Info_5:
+      Name: gluanksman
       Dependencies: {}

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2702096976
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e2ac3935a6dfbc1020e25f072dfa2ded
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundles/poutou/ras le bol rn.wav
+- Assets/AssetBundles/poutou/macronlecon.wav
+- "Assets/AssetBundles/poutou/ras le bol m\xE9dias.wav"
+- Assets/AssetBundles/poutou/drahi.wav
+- Assets/AssetBundles/poutou/Les riches volent.wav
+- Assets/AssetBundles/poutou/greve en groupe.wav
+- Assets/AssetBundles/poutou/fuck bfm.wav
+- Assets/AssetBundles/poutou/tout seul.wav
+- Assets/AssetBundles/poutou/cravate.wav
+- Assets/AssetBundles/poutou/salle de reu.wav
+- Assets/AssetBundles/poutou/on sent la triche.wav
+Dependencies: []

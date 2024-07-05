@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1072845729
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e82af5888050823e7888bd11d0da038c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundles/gluanksmann/cap clair.wav
+- Assets/AssetBundles/gluanksmann/rapport de force.wav
+- Assets/AssetBundles/gluanksmann/on va pas refaire la nupes.wav
+Dependencies: []
